@@ -2,7 +2,6 @@
 body {
   margin: 8px;
   display: block;
-  margin: 0 auto;
   width: 50%;
   text-align: center;
 }
@@ -14,7 +13,7 @@ body {
   width: 500px;
 }
 p {
-  color: navy;
+  color: green;
   padding: 10px;
   margin: 0 auto;
   max-width: 500px;
