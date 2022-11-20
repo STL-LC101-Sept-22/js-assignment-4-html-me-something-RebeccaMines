@@ -9,9 +9,7 @@ body {
 #mainHeading {
   color: red;
 }
-.funParagraph {
-  color: green;
-}
+
 .image {
   width: 500px;
 }
@@ -27,4 +25,7 @@ h1 {
   line-height: 1.2;
   max-width: 500px;
   margin: 30px auto;
+}
+.funParagraph {
+  color: green;
 }
